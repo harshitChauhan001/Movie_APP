@@ -1,4 +1,4 @@
-# Movie_APP
+# Movie app
 Full Stack FrontEnd app which uses the React Library and Axios for fetch movie data. The API are provided by the TMDB official website
 # Instructions
 To Run this webiste on the local server.
